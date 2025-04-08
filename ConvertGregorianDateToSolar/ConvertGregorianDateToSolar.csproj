@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>ConvertGregorianDateToSolar</PackageId>
+    <Title>ConvertGregorianDateToSolar</Title>
+    <Version>1.0.0</Version>
+    <Authors>HamedHeydarian</Authors>
+    <Company>dotnetcodeir</Company>
+    <Description>This package is for converting Gregorian date to Solar date. 
+To use it, you can use the ConvertDate class and ToShamsiDate method.</Description>
+    <Copyright>dotnetcodeir 2025</Copyright>
+    <PackageIcon>date.jpg</PackageIcon>
+    <PackageTags>Date,Persion,Shamsi,Gregorian</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Lenovo\Downloads\date.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
