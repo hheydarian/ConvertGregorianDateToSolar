@@ -2,6 +2,7 @@
 
 ![NuGet](https://img.shields.io/nuget/v/ConvertGregorianDateToSolar)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![NuGet Downloads](https://img.shields.io/nuget/dt/ConvertGregorianDateToSolar.svg)
 
 A minimal .NET library that converts **Gregorian dates to Persian (Shamsi) format** using `PersianCalendar`.  
 Perfect for applications targeting Iranian users.
