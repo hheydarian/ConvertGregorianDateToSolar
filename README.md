@@ -1,7 +1,7 @@
 # ConvertGregorianDateToSolar
 
-![NuGet](https://img.shields.io/nuget/v/ConvertGregorianDateToSolar)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![NuGet](https://img.shields.io/nuget/v/ConvertGregorianDateToSolar)
 ![NuGet Downloads](https://img.shields.io/nuget/dt/ConvertGregorianDateToSolar.svg)
 ![.NET Version](https://img.shields.io/badge/.NET-9-purple.svg)
 
