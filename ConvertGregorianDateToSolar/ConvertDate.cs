@@ -4,7 +4,6 @@ public class ConvertDate
 {
     public string ToShamsiDate(DateTime date)
     {
-        //convert
         PersianCalendar pc = new();
         var year = pc.GetYear(date);
         var month = pc.GetMonth(date);
