@@ -1,7 +1,5 @@
 ﻿using System.Globalization;
-
 namespace ConvertGregorianDateToSolar;
-
 public class ConvertDate
 {
     public string ToShamsiDate(DateTime date)
@@ -11,6 +9,5 @@ public class ConvertDate
         var month = pc.GetMonth(date);
         var day = pc.GetDayOfMonth(date);
         return $"{year}/{month}/{day}";
-
     }
 }
